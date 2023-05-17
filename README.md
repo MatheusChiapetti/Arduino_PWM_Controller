@@ -17,7 +17,7 @@
 
 <h2>Esquemático:</h2> 
 
-![image](https://github.com/MatheusChiapetti/Arduino_PWM_Controller/assets/110207330/d59a0e91-d63d-4a71-ba68-acce38cb0731)
+![image](https://github.com/MatheusChiapetti/Arduino_PWM_Controller/assets/110207330/11fccb00-f5e0-4b3f-8fd2-1da03f20dc83)
 
 <h2>Código fonte:</h2> 
 
