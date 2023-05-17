@@ -1,5 +1,3 @@
-# Arduino_PWM_Controller
-
 <h1>Projeto Arduino e PWM</h1>
 
 <h2>O que é PWM?</h2> 
